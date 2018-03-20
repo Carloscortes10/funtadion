@@ -1,0 +1,14 @@
+#video {
+	position: fixed;
+	left: 0;
+	top: 0;
+	min-height: 100%;
+	min-width: 100%;
+	width: auto;
+	height: auto;
+	z-index: -10;
+	visibility: visible;
+}
+.dark_primary_color{
+	background-color: #3adb76
+}
